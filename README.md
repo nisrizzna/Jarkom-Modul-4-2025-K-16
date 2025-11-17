@@ -134,8 +134,3 @@ Contoh pengujian ping antar-subnet:
     <!-- GANTI 'link-screenshot' DENGAN SCREENSHOT PING SUKSES ANDA -->
 
 ---
-
-Catatan:
-- Ganti semua placeholder screenshot dan nama anggota sesuai data Anda.
-- Semua tabel lengkap dan data mentah tersedia pada file CSV yang disebutkan di setiap seksi.
-- Simpan file ini sebagai README.md untuk tampilan yang rapi dan mudah dibaca.
