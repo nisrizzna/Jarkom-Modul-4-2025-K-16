@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-2025-K-16
+<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/480e0bfa-5f77-448c-b61c-c1b3ab1e2356" /># Jarkom-Modul-4-2025-K-16
 
 Laporan Praktikum Modul 4 — Jaringan Komputer
 
@@ -91,9 +91,14 @@ Contoh static routing (non-summarized). Tampilkan routing table tiap router:
 - Router Amonsul: `show ip route`  
   <img width="589" height="416" alt="image" src="https://github.com/user-attachments/assets/11363fdd-c2ab-4d99-8ae8-6f7440dfa46b" />
 
-
 - Router Eregion: `show ip route`  
   <img width="565" height="332" alt="image" src="https://github.com/user-attachments/assets/bc73357e-7382-4656-a126-a1c82bf14cdf" />
+
+- Router Fornost  `show ip route`
+  <img width="598" height="260" alt="image" src="https://github.com/user-attachments/assets/d5e68833-fb77-4352-8935-271ef4dd1ded" />
+
+- Router Valimor `show ip route`
+  <img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/ffed4f26-94be-46ce-9299-2b57f242ae80" />
 
 
 ### 5.3 Testing Koneksi (CPT)
