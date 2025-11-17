@@ -1,4 +1,4 @@
-<img width="571" height="232" alt="image" src="https://github.com/user-attachments/assets/480e0bfa-5f77-448c-b61c-c1b3ab1e2356" /># Jarkom-Modul-4-2025-K-16
+# Jarkom-Modul-4-2025-K-16
 
 Laporan Praktikum Modul 4 — Jaringan Komputer
 
