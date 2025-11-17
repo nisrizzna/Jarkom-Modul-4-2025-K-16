@@ -76,7 +76,7 @@ Data lengkap: [Modul 4 Jarkom - Rute.csv](https://docs.google.com/spreadsheets/d
 ## 5. Bukti Implementasi & Verifikasi (CPT — VLSM)
 
 ### 5.1 Konfigurasi IP Address (CPT)
-Contoh konfigurasi IP pada interface router (ganti dengan screenshot Anda):
+Contoh konfigurasi IP pada interface router:
 
 - Router Amonsul: `show ip interface brief`  
   <img width="561" height="101" alt="image" src="https://github.com/user-attachments/assets/ca5f3e9c-bdd3-4865-8aa6-0b344d166529" />
@@ -106,31 +106,5 @@ Contoh pengujian ping antar-subnet:
 - Ping dari PC (A10) → PC (A2)  
   <img width="593" height="33" alt="image" src="https://github.com/user-attachments/assets/15fd5b38-e111-4dbd-8109-f6c5e8c84490" />
 
-
----
-
-## 6. Bukti Implementasi & Verifikasi (GNS3 — CIDR)
-
-### 6.1 Konfigurasi IP Address (GNS3)
-Contoh konfigurasi IP pada interface router (Docker): `ip a`  
-<!-- GANTI 'link-screenshot' DENGAN SCREENSHOT ANDA -->
-
-### 6.2 Konfigurasi Static Routing (GNS3)
-Contoh routing table dengan rute yang sudah di-summarize:
-
-- Router Amonsul: `ip route show` (menampilkan rute summarized)  
-    <!-- GANTI 'link-screenshot' DENGAN SCREENSHOT ANDA -->
-
-- Router Numenor: `ip route show` (menampilkan rute summarized)  
-    <!-- GANTI 'link-screenshot' DENGAN SCREENSHOT ANDA -->
-
-### 6.3 Testing Koneksi (GNS3)
-Contoh pengujian ping antar-subnet:
-
-- Ping dari PC (A7) → PC (A4)  
-    <!-- GANTI 'link-screenshot' DENGAN SCREENSHOT PING SUKSES ANDA -->
-
-- Ping dari PC (A12) → PC (A16)  
-    <!-- GANTI 'link-screenshot' DENGAN SCREENSHOT PING SUKSES ANDA -->
 
 ---
